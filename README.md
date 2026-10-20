@@ -32,10 +32,6 @@ React Native and Expo application with isolated demo flows, typed API contracts 
 **Assistente Lavae**  
 Cloudflare Workers system combining D1, queues, conservative AI routing and explicit human handoff.
 
-**Text Analyzer MVVM**  
-Academic Flutter project using Provider, SQLite and MVVM, with its authentication limitations documented explicitly.
-
-> These projects are currently private. They are presented here as verified areas of engineering work, not as publicly accessible source repositories.
 
 ## Technologies demonstrated
 
