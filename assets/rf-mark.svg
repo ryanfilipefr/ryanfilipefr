@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">RF. monogram</title>
+  <desc id="desc">Minimal monogram formed by the letters R and F with a blue accent dot.</desc>
+  <rect width="160" height="160" rx="28" fill="#111318"/>
+  <path d="M36 112V46h30c18 0 29 9 29 24 0 11-6 19-16 22l19 20H80L63 94H52v18H36Zm16-32h13c9 0 14-3 14-10s-5-10-14-10H52v20Z" fill="#F5F7FA"/>
+  <path d="M101 112V46h39v14h-23v14h20v14h-20v24h-16Z" fill="#F5F7FA"/>
+  <circle cx="137" cy="112" r="7" fill="#6C8CFF"/>
+</svg>
