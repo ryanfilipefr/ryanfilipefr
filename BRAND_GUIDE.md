@@ -3,7 +3,7 @@
 ## Positioning
 
 **Ryan Filipe**  
-Software Engineer | Full-Stack | AI & Automation
+Systems Architect | Full-Stack | AI & Automation
 
 The identity should communicate precision, modern engineering and quiet confidence. It avoids decorative statistics, excessive badges and visual noise.
 

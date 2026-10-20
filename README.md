@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/rf-header.svg" alt="Ryan Filipe — Software Engineer, Full-Stack, AI and Automation" width="100%" />
+  <img src="assets/rf-header.svg" alt="Ryan Filipe — Systems Architect, Full-Stack, AI and Automation" width="100%" />
 </p>
 
 ## Hello, I'm Ryan.

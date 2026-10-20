@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
-  <title id="title">Ryan Filipe — Software Engineer</title>
+  <title id="title">Ryan Filipe — Systems Architect</title>
   <desc id="desc">A restrained dark header with the RF monogram and professional positioning.</desc>
   <rect width="1200" height="300" rx="24" fill="#111318"/>
   <path d="M84 198V92h47c29 0 47 14 47 38 0 18-10 30-26 35l31 33h-29l-27-29h-17v29H84Zm26-51h20c14 0 22-6 22-17 0-10-8-16-22-16h-20v33Z" fill="#F5F7FA"/>
   <path d="M191 198V92h63v22h-37v23h32v22h-32v39h-26Z" fill="#F5F7FA"/>
   <circle cx="250" cy="198" r="10" fill="#6C8CFF"/>
   <text x="324" y="137" fill="#F5F7FA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="48" font-weight="650">Ryan Filipe</text>
-  <text x="324" y="184" fill="#AAB1BE" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25">Software Engineer · Full-Stack · AI &amp; Automation</text>
+  <text x="324" y="184" fill="#AAB1BE" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25">Systems Architect · Full-Stack · AI &amp; Automation</text>
   <rect x="324" y="213" width="104" height="4" rx="2" fill="#6C8CFF"/>
 </svg>
