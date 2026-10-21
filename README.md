@@ -1,49 +1,65 @@
 <p align="center">
-  <img src="assets/rf-header.svg" alt="Ryan Filipe — Systems Architect, Full-Stack, AI and Automation" width="100%" />
+  <img src="assets/rf-header.svg" alt="Ryan Filipe | Systems Architect, Full-Stack Engineer, AI and Automation" width="100%" />
 </p>
 
-## Hello, I'm Ryan.
+<p align="center">
+  <strong>🌐 Language</strong><br>
+  <a href="./README.md">🇺🇸 English</a> ·
+  <a href="./README.pt-BR.md">🇧🇷 Português</a> ·
+  <a href="./README.es.md">🇪🇸 Español</a>
+</p>
 
-Software engineer focused on practical full-stack systems, AI applications and reliable automation.
+## Hello, I'm Ryan
 
-I work where product thinking meets operational reality: web and mobile applications, context-aware tools, local runtimes and integrations designed to remain observable, reversible and safe.
+**Systems Architect | Full-Stack Engineer | AI & Automation**
+
+I design and build software systems, from architecture and technical decisions to development, integration, and deployment.
+
+My work includes full-stack engineering, AI applications, and automation. I care about systems that can grow without becoming difficult to maintain, provide useful operational visibility, and recover safely when something fails.
 
 ## What I build
 
-- **Full-stack products** with clear contracts between interface, backend and data.
-- **AI applications** that separate model suggestions from trusted execution.
-- **Operational automation** built around idempotency, human handoff and failure recovery.
-- **Mobile and developer tools** with explicit boundaries between demo and production behavior.
+- System architectures that can evolve over time.
+- Full-stack products with clear contracts between the interface, backend, and data layers.
+- AI applications that separate model suggestions from trusted execution.
+- Operational automations with idempotency, human handoff, and failure recovery.
+- Mobile applications and developer tools with a clear distinction between demo and production behavior.
 
-## Selected engineering work
+## Selected work
 
-**Meu Estagiário**  
-Operational platform connecting a React interface, Supabase core, Windows runtime and authorized browser integrations.
+### Meu Estagiário
 
-**VULK4N**  
-Local security investigation platform with scoped HTTP analysis, an authorized laboratory and auditable reports.
+An operational platform connecting a React interface, Supabase core, Windows runtime, and authorized browser integrations.
 
-**Oracle / Context Engine**  
-Truth-aware memory and context architecture exploring entity resolution, semantic retrieval and attention.
+### VULK4N
 
-**Vibz Mobile**  
-React Native and Expo application with isolated demo flows, typed API contracts and mobile-first architecture.
+A local security investigation platform for scoped HTTP analysis, authorized laboratory testing, and auditable reports.
 
-**Assistente Lavae**  
-Cloudflare Workers system combining D1, queues, conservative AI routing and explicit human handoff.
+### Oracle / Context Engine
 
+A memory and context architecture exploring entity resolution, semantic retrieval, attention, and the reliability of stored information.
 
-## Technologies demonstrated
+### Vibz Mobile
 
-**Languages** — TypeScript, JavaScript, Python, Dart and SQL  
-**Frontend & mobile** — React, Vite, React Native, Expo and Flutter  
-**Backend & data** — Node.js, Cloudflare Workers, Supabase, PostgreSQL, SQLite and D1  
-**Engineering** — GitHub Actions, automated testing, API design, browser extensions and Windows automation
+A React Native and Expo application with isolated demo flows, typed API contracts, and a mobile-first architecture.
 
-## Engineering approach
+### Assistente Lavae
 
-I value small, verifiable changes, explicit trust boundaries, documentation that matches the implementation and automation that fails safely.
+A Cloudflare Workers system using D1, queues, conservative AI routing, and explicit human handoff.
+
+## Technologies
+
+- **Languages:** TypeScript, JavaScript, Python, Dart, and SQL
+- **Frontend and mobile:** React, Vite, React Native, Expo, and Flutter
+- **Backend and data:** Node.js, Cloudflare Workers, Supabase, PostgreSQL, SQLite, and D1
+- **Engineering:** GitHub Actions, automated testing, API design, browser extensions, and Windows automation
+
+## How I work
+
+I prefer small, verifiable changes, clear trust boundaries, documentation that reflects the implementation, and automation that fails safely.
+
+Good architecture meets today's requirements while leaving room for change without adding avoidable complexity. I connect architectural decisions with hands-on implementation to build software that people can understand, operate, and maintain.
 
 ## Contact
 
-The verified public channel for now is [GitHub](https://github.com/ryanfilipefr).
+You can reach me through [GitHub](https://github.com/ryanfilipefr).
